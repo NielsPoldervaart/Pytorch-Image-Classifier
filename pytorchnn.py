@@ -105,7 +105,7 @@ def make_prediction(test_img):
     print(f"Predicted digit: {predicted_class}, Confidence: {confidence * 100:.2f}%")
 
 
-# Training function 
+# Call functions
 if __name__ == "__main__":
     # Uncomment the line below to train the model
     # train_model()
